@@ -53,7 +53,7 @@ Meu objetivo é me tornar um desenvolvedor profissional e conquistar minha prime
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/m%C3%A1rcio-samuel-servulo-765460237))
 
 ---
 
